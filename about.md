@@ -6,4 +6,4 @@ permalink: /about/
 
 Please email if you are interested in making all the octiipi fly one day.
 
-[octiipi](https://github.com/octiipi)
+[octiipi GitHub organization](https://github.com/octiipi)
