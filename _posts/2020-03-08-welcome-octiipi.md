@@ -5,4 +5,4 @@ date:   2020-03-08 16:26:30 -0700
 categories: posts
 ---
 
-this page is for the octiipi GitHub organation.
+this page is for the octiipi GitHub organization.
